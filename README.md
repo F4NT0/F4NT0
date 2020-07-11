@@ -1,16 +1,13 @@
-### Hi there 👋
+### Minha Organização do Github!
 
-<!--
-**F4NT0/F4NT0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Minhas Comunidades**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Comunidade| Para que serve
+|---|---|
+<img src="trabalhos-facul.png">| Gerenciar meus Trabalhos da Faculdade
+<img src="linguagens.png">| Gerenciar Repos de Estudo de Linguagens de Programação
+<img src="repo-fork.png">| Gerenciar Repos feitos Fork de outras pessoas
+<img src="playground.png">| Gerenciar Repos de códigos aleatórios
+<img src="os.png">| Estudos e Sistemas Operacionais feitos
+<img src="codigo-alunos.png">| Gerenciar Repos de Códigos de Professores e Alunos
+<img src="fanto-technology.png">| Gerenciar Projetos da Minha Comunidade Open Source
