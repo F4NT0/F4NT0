@@ -7,7 +7,7 @@
 * <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/manjaro.png" width="20"> My favorite Unix Distro is the [**Manjaro Architect**](https://manjaro.org/)
 * <img src="" width="30"> Currently Working on **AGES - Agência Experimental de Engenharia de Software in PUCRS University**
 
-###### My Social Networks
+###### Shortcut Links to my informations!
 
 <table>
 <tr><th> My Social Networks</th><th> My Organized Communities</th>
@@ -25,11 +25,11 @@ Link | Info
 
 Link | Info
 |---|---|
-[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/trabalhos-facul.png">](https://github.com/trabalhos-da-faculdade)| My University Projects Repositories
-[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/os.png">](https://github.com/OSOSP)| My Operation System Projects Repositories
-[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/linguagens.png">](https://github.com/fantolanguages)| My Programming Languages Study Repositories
-[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/fanto-technology.png">](https://github.com/f-4-n-t-0-technology)| My Open Source Community Repositories
-[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/repo-fork.png">](https://github.com/fanto-forked-repos)| My Forked Repositories from other Developers
-[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/codigo-alunos.png">](https://github.com/estudosdofantinho)| My Colleges and Teachers Projects Repositories
-[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/playground.png">](https://github.com/testefantinho)| My Study Playground Projects Repositories
+[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/trabalhos-facul.png" width="30">](https://github.com/trabalhos-da-faculdade)| My University Projects Repositories
+[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/os.png" width="30">](https://github.com/OSOSP)| My Operation System Projects Repositories
+[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/linguagens.png" width="30">](https://github.com/fantolanguages)| My Programming Languages Study Repositories
+[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/fanto-technology.png" width="30">](https://github.com/f-4-n-t-0-technology)| My Open Source Community Repositories
+[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/repo-fork.png" width="30">](https://github.com/fanto-forked-repos)| My Forked Repositories from other Developers
+[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/codigo-alunos.png" width="30">](https://github.com/estudosdofantinho)| My Colleges and Teachers Projects Repositories
+[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/playground.png" width="30">](https://github.com/testefantinho)| My Study Playground Projects Repositories
 
