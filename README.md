@@ -10,9 +10,10 @@
 * Currently Working on **AGES - Agência Experimental de Engenharia de Software in PUCRS University**
 
 ###### My Social Networks
-
-* <img src="" width="30"> My [**Study Website**](https://f4nt0.github.io/PR0GR4M1NG/)
-* <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/linkedin.png" width="30"> My [**Linkedin Profile**](https://www.linkedin.com/in/gabriel-fanto-stundner-b19723164/)
-* <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/twitter.png" width="20"> My [**Twitter**](https://twitter.com/GABRIELFANTO)
-* <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/facebook.png" width="20"> My [**Facebook**](https://www.facebook.com/gabrielfanto) 
-* <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/youtube.png" width="30"> My [**Youtube Channel**](https://www.youtube.com/channel/UC0OLmUgRYTryGlpd4wCqkAA?view_as=subscriber)
+Link | Info
+|---|---|
+[<img src="" width="30">](https://f4nt0.github.io/PR0GR4M1NG/) |My **Study Website**
+[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/linkedin.png" width="30">](https://www.linkedin.com/in/gabriel-fanto-stundner-b19723164/) | My **Linkedin Profile**
+[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/twitter.png" width="20">](https://twitter.com/GABRIELFANTO) | My **Twitter**
+[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/facebook.png" width="20">](https://www.facebook.com/gabrielfanto) | My **Facebook**
+[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/youtube.png" width="30">](https://www.youtube.com/channel/UC0OLmUgRYTryGlpd4wCqkAA?view_as=subscriber) | My **Youtube Channel**
