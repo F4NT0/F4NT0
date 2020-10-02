@@ -2,12 +2,18 @@
 
 ###### About me
 
-* <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/terminal.png" width="20"> I love working on Linux Command Line Interfaces, known as **CLI**.
+* <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/terminal-neon.png" width="20"> I love working on Linux Command Line Interfaces, known as **CLI**.
 * <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/linux.png" width="20"> I love working with Unix Based Systems but I can work with any Operational System.
 * <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/manjaro.png" width="20"> My favorite Unix Distro is the [**Manjaro Architect**](https://manjaro.org/)
 * <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/logo-ages_color.png" width="30"> Currently Working on [**AGES - Agência Experimental de Engenharia de Software in PUCRS University**](http://www.ages.pucrs.br/)
 
-###### Shortcut Links to my informations!
+
+![F4NT0 github stats](https://github-readme-stats.vercel.app/api?username=F4NT0&count_private=true&show_icons=true&theme=dark)
+
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F4NT0)
+
+
+###### Shortcut Links to my Socials and Communities!
 
 <table>
 <tr><th> My Social Networks</th><th> My Organized Communities</th>
