@@ -7,11 +7,17 @@
 * <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/manjaro.png" width="20"> My favorite Unix Distro is the [**Manjaro Architect**](https://manjaro.org/)
 * <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/logo-ages_color.png" width="30"> Currently Working on [**AGES - Agência Experimental de Engenharia de Software in PUCRS University**](http://www.ages.pucrs.br/)
 
+<table>
+<tr><th> My Github Achievements</th><th> My Most Used Languages</th>
+<tr><td>
 
-![F4NT0 github stats](https://github-readme-stats.vercel.app/api?username=F4NT0&count_private=true&show_icons=true&theme=dark&include_all_commits&text_color=#008000&title_color=#FFD700)
+![F4NT0 github stats](https://github-readme-stats.vercel.app/api?username=F4NT0&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits)
 
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F4NT0&theme=dark)
+</td><td>
 
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F4NT0&theme=chartreuse-dark)
+
+</table>
 
 ###### Shortcut Links to my Socials and Communities!
 
@@ -39,3 +45,4 @@ Link | Info
 [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/codigo-alunos.png" width="30">](https://github.com/estudosdofantinho)| My Colleges and Teachers Projects Repositories
 [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/playground.png" width="30">](https://github.com/testefantinho)| My Study Playground Projects Repositories
 
+</table>
