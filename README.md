@@ -8,7 +8,7 @@
 * <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/logo-ages_color.png" width="30"> Currently Working on [**AGES - Agência Experimental de Engenharia de Software in PUCRS University**](http://www.ages.pucrs.br/)
 
 
-![F4NT0 github stats](https://github-readme-stats.vercel.app/api?username=F4NT0&count_private=true&show_icons=true&theme=dark&include_all_commits&text_color=#008000&title_color=#FFD700&custom_title="Knight F4NT0 and his Achievements")
+![F4NT0 github stats](https://github-readme-stats.vercel.app/api?username=F4NT0&count_private=true&show_icons=true&theme=dark&include_all_commits&text_color=#008000&title_color=#FFD700&custom_title=Knight F4NT0 and his Achievements)
 
 ![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F4NT0&theme=dark)
 
