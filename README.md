@@ -10,7 +10,7 @@
 
 ![F4NT0 github stats](https://github-readme-stats.vercel.app/api?username=F4NT0&count_private=true&show_icons=true&theme=dark)
 
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F4NT0)
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F4NT0&theme=dark)
 
 
 ###### Shortcut Links to my Socials and Communities!
