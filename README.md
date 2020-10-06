@@ -8,14 +8,14 @@
 * <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/logo-ages_color.png" width="30"> Currently Working on [**AGES - Agência Experimental de Engenharia de Software in PUCRS University**](http://www.ages.pucrs.br/)
 
 <table>
-<tr><th> My Github Achievements</th><th> My Most Used Languages</th>
+<tr>
 <tr><td>
 
 ![F4NT0 github stats](https://github-readme-stats.vercel.app/api?username=F4NT0&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true)
 
 </td><td>
 
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F4NT0&theme=chartreuse-dark)
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F4NT0&layout=compact&theme=chartreuse-dark)
 
 </table>
 
