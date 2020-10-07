@@ -21,6 +21,6 @@
 
 ##### My Social Networks
 
-[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/meu-site.png" width="30">](https://f4nt0.github.io/PR0GR4M1NG/)|[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/linkedin.png" width="30">](https://www.linkedin.com/in/gabriel-fanto-stundner-b19723164/) |[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/twitter.png" width="30">](https://twitter.com/GABRIELFANTO) |[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/facebook.png" width="30">](https://www.facebook.com/gabrielfanto) |[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/youtube.png" width="30">](https://www.youtube.com/channel/UC0OLmUgRYTryGlpd4wCqkAA?view_as=subscriber) |
+[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/website.png">](https://f4nt0.github.io/PR0GR4M1NG/)|[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/linkedin.png">](https://www.linkedin.com/in/gabriel-fanto-stundner-b19723164/) |[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/twitter.png">](https://twitter.com/GABRIELFANTO) |[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/facebook.png">](https://www.facebook.com/gabrielfanto) |[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/youtube.png">](https://www.youtube.com/channel/UC0OLmUgRYTryGlpd4wCqkAA?view_as=subscriber) |
 |---|---|---|---|---|
 
