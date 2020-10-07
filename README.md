@@ -28,4 +28,4 @@
 
 Java|Python|Javascript|Typescript|Shell Script|Ruby|C|
 |---|---|---|---|---|---|---|
-[<img src=""https://github.com/F4NT0/F4NT0/blob/master/images/icons/java.png">]()|<img src=""https://github.com/F4NT0/F4NT0/blob/master/images/icons/python.png">|<img src=""https://github.com/F4NT0/F4NT0/blob/master/images/icons/javascript.png">|<img src=""https://github.com/F4NT0/F4NT0/blob/master/images/icons/typescript.png">|<img src=""https://github.com/F4NT0/F4NT0/blob/master/images/icons/shell.png">|<img src=""https://github.com/F4NT0/F4NT0/blob/master/images/icons/ruby.png">|<img src=""https://github.com/F4NT0/F4NT0/blob/master/images/icons/c.png">
+[<img src="../F4NT0/images/icons/java.png">]()|<img src=""https://github.com/F4NT0/F4NT0/blob/master/images/icons/python.png">|<img src=""https://github.com/F4NT0/F4NT0/blob/master/images/icons/javascript.png">|<img src=""https://github.com/F4NT0/F4NT0/blob/master/images/icons/typescript.png">|<img src=""https://github.com/F4NT0/F4NT0/blob/master/images/icons/shell.png">|<img src=""https://github.com/F4NT0/F4NT0/blob/master/images/icons/ruby.png">|<img src=""https://github.com/F4NT0/F4NT0/blob/master/images/icons/c.png">
