@@ -28,12 +28,18 @@
 
 ##### Languages
 
-<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/java.png" width="40"> <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/python.png" width="40"> <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/typescript.png" width="40"> <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/javascript.png" width="40"> <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/shell.png" width="40"> <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/ruby.png" width="40"> <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/c.png" width="40">
+Java 8+ | Python 2 && 3 | Typescript | Javascript | Shell Script | Ruby | C
+|---|---|---|---|---|---|---|
+<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/java.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/python.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/typescript.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/javascript.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/shell.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/ruby.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/c.png" width="40">
 
 ##### Technologies 
 
-<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/angular.png" width="40"> <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/node.png" width="40"> <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/mysql.png" width="40">
+| Angular 5+ | Nodejs 9+ | MySQL | Android
+|---|---|---|---| 
+<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/angular.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/node.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/mysql.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/android.png" width="40">
 
 ##### Operational Systems
 
-<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/manjaro-2.png" width="40"> <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/ubuntu-2.png" width="40"> <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/mint-2.png" width="40"> <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/windows-2.png" width="40"> <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/macosx.png" width="40">
+| Manjaro Architect && i3 | Ubuntu 16.04 && 18.04 | Linux Mint | Windows | MacOSX |
+|---|---|---|---|---|
+<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/manjaro-2.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/ubuntu-2.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/mint-2.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/windows-2.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/macosx.png" width="40">
