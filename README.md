@@ -46,4 +46,4 @@ Java 8+ | Python 2 && 3 | Typescript | Javascript | Shell Script | Ruby | C
 
 ##### Tips
 
-[Java ForEach Template](https://gist.github.com/F4NT0/f78cca6d9442e1a25b45eb673c8cc043.js)
+[Java ForEach Template](https://gist.github.com/F4NT0/f78cca6d9442e1a25b45eb673c8cc043)
