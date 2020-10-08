@@ -43,3 +43,7 @@ Java 8+ | Python 2 && 3 | Typescript | Javascript | Shell Script | Ruby | C
 | Manjaro Architect && i3 | Ubuntu 16.04 && 18.04 | Linux Mint | Windows | MacOSX |
 |---|---|---|---|---|
 <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/manjaro-2.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/ubuntu-2.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/mint-2.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/windows-2.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/macosx.png" width="40">
+
+##### Tips
+
+<script src="https://gist.github.com/F4NT0/f78cca6d9442e1a25b45eb673c8cc043.js"></script>
