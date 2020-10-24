@@ -46,6 +46,8 @@ Java 8+ | Python 2 && 3 | Typescript | Javascript | Shell Script | Ruby | C
 
 ##### Tips
 
-[Java ForEach Template](https://gist.github.com/F4NT0/f78cca6d9442e1a25b45eb673c8cc043)
-[TUI Unicode Characters](https://gist.github.com/F4NT0/0e77a9d56415e57011a4cb243b658033)
-[ANSI Colors in Terminal](https://gist.github.com/F4NT0/afec936ed4175bed1eac74cef69655b2)
+❱ [Java ForEach Template](https://gist.github.com/F4NT0/f78cca6d9442e1a25b45eb673c8cc043)
+
+❱ [TUI Unicode Characters](https://gist.github.com/F4NT0/0e77a9d56415e57011a4cb243b658033)
+
+❱ [ANSI Colors in Terminal](https://gist.github.com/F4NT0/afec936ed4175bed1eac74cef69655b2)
