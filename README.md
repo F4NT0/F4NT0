@@ -32,6 +32,17 @@ Java 8+ | Python 2 && 3 | Typescript | Javascript | Shell Script | Ruby | C
 |---|---|---|---|---|---|---|
 <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/java.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/python.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/typescript.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/javascript.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/shell.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/ruby.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/c.png" width="40">
 
+<table>
+<tr>
+<tr>
+<td>
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/java.png" width="40">
+</td>
+<td>
+    **Java 8+**
+</td>
+</table>
+
 ##### Technologies 
 
 | Angular 5+ | Nodejs 9+ | MySQL | Android
@@ -43,6 +54,12 @@ Java 8+ | Python 2 && 3 | Typescript | Javascript | Shell Script | Ruby | C
 | Manjaro Architect && i3 | Ubuntu 16.04 && 18.04 | Linux Mint | Windows | MacOSX |
 |---|---|---|---|---|
 <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/manjaro-2.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/ubuntu-2.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/mint-2.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/windows-2.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/macosx.png" width="40">
+
+##### My Organizations to organize study Repos
+
+Open Source | Scholar Projects | Forked Repos | Projects to Reutilize | Playground | Language Studies | Operational Systems
+|---|---|---|---|---|---|---|
+[![](images/comunities/fanto-technology.png)](https://github.com/f-4-n-t-0-technology)|[![](images/comunities/trabalhos-facul.png)](https://github.com/trabalhos-da-faculdade)|[![](images/comunities/repo-fork.png)](https://github.com/fanto-forked-repos)|[![](images/comunities/codigo-alunos.png)](https://github.com/estudosdofantinho)|[![](images/comunities/playground.png)](https://github.com/testefantinho)|[![](images/comunities/linguagens.png)](https://github.com/fantolanguages)|[![](images/comunities/os.png)](https://github.com/OSOSP)
 
 ##### Tips
 
