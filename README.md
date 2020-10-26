@@ -30,40 +30,70 @@
 
 <table>
 <td>
-    <h6>Java</h6>
+    <p>Java</p>
     <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/java.png" width="40">
 <td>
-    <h6>Python</h6>
+    <p>Python</p>
     <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/python.png" width="40">
 </td>
 <td>
-    <h6>Javascript</h6>
+    <p>Javascript</p>
     <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/javascript.png" width="40">
 </td>
 <td>
-    <h6>Typescript</h6>
+    <p>Typescript</p>
     <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/typescript.png" width="40">
 </td>
 <td>
-    <h6>Shell Script</h6>
+    <p>Shell Script</p>
     <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/shell.png" width="40">
 </td>
 <td>
-    <h6>C</h6>
+    <p>C</p>
     <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/c.png" width="40">
 </td>
 <td>
-    <h6>Ruby</h6>
+    <p>Ruby</p>
     <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/ruby.png" width="40">
 </td>
 </table>
 
+##### Frameworks
 
-##### Technologies 
+<table>
+<td>
+    <p>Angular 5+</p>
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/angular.png" width="40">
+</td>
+</table>
 
-| Angular 5+ | Nodejs 9+ | MySQL | Android
-|---|---|---|---| 
-<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/angular.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/node.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/mysql.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/android.png" width="40">
+##### Runtimes
+
+<table>
+<td>
+    <p>Node.js 10+</p>
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/node.png" width="40"> 
+</td>
+</table>
+
+##### RDBMS - Relational Database Management Systems
+
+<table>
+<td>
+    <p>MySQL</p>
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/mysql.png" width="40">
+</td>
+</table>
+
+##### Mobile Development
+
+<table>
+<td>
+    <p>Android Studio</p>
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/android.png" width="40">
+</td>
+</table>
+
 
 ##### Operational Systems
 
