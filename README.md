@@ -120,11 +120,15 @@
 </td>
 </table>
 
-##### My Organizations to organize study Repos
+##### My Organizations Links
 
-Open Source | Scholar | Forks | Complete Projects | Playground | Languages | OS
-|---|---|---|---|---|---|---|
-[![](images/comunities/fanto-technology.png)](https://github.com/f-4-n-t-0-technology)|[![](images/comunities/trabalhos-facul.png)](https://github.com/trabalhos-da-faculdade)|[![](images/comunities/repo-fork.png)](https://github.com/fanto-forked-repos)|[![](images/comunities/codigo-alunos.png)](https://github.com/estudosdofantinho)|[![](images/comunities/playground.png)](https://github.com/testefantinho)|[![](images/comunities/linguagens.png)](https://github.com/fantolanguages)|[![](images/comunities/os.png)](https://github.com/OSOSP)
+* [![](<img src="images/../images/comunities/fanto-technology.png" width="40">)](https://github.com/f-4-n-t-0-technology) = Open Source Projects
+* [![](<img src="images/../images/comunities/trabalhos-facul.png" width="40">)](https://github.com/trabalhos-da-faculdade) = University Projects
+* [![](<img src="images/comunities/repo-fork.png" width="40">)](https://github.com/fanto-forked-repos) = Forked Projects
+* [![](<img src="images/comunities/codigo-alunos.png" width="40">)](https://github.com/estudosdofantinho) = Complete Projects
+* [![](<img src="images/comunities/playground.png" width="40">)](https://github.com/testefantinho) = Test Projects
+* [![](<img src="images/comunities/linguagens.png" width="40">)](https://github.com/fantolanguages) = Languages Studies
+* [![](<img src="images/comunities/os.png" width="40">)](https://github.com/OSOSP) = Operational System Projects
 
 ##### Tips
 
