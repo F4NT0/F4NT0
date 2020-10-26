@@ -122,7 +122,7 @@
 
 ##### My Organizations Links
 
-* [![](<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/fanto-technology.png" width="40">)](https://github.com/f-4-n-t-0-technology) = Open Source Projects
+[![](<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/fanto-technology.png">)](https://github.com/f-4-n-t-0-technology) = Open Source Projects
 * [![](<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/trabalhos-facul.png" width="40">)](https://github.com/trabalhos-da-faculdade) = University Projects
 * [![](<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/repo-fork.png" width="40">)](https://github.com/fanto-forked-repos) = Forked Projects
 * [![](<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/codigo-alunos.png" width="40">)](https://github.com/estudosdofantinho) = Complete Projects
