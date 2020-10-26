@@ -30,25 +30,25 @@
 
 <table>
 <td>
-    [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/java.png" width="40">](https://www.tutorialspoint.com/java/index.htm)
+    <h6>Java</h6>
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/java.png" width="40">
+<td>
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/python.png" width="40">
 </td>
 <td>
-    [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/python.png" width="40">](https://realpython.com/)
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/javascript.png" width="40">
 </td>
 <td>
-    [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/javascript.png" width="40">](https://javascript.info/)
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/typescript.png" width="40">
 </td>
 <td>
-    [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/typescript.png" width="40">](https://www.typescriptlang.org/docs) 
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/shell.png" width="40">
 </td>
 <td>
-    [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/shell.png" width="40">](https://www.learnshell.org/)
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/c.png" width="40">
 </td>
 <td>
-    [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/c.png" width="40">](https://www.tutorialspoint.com/cprogramming/index.htm)
-</td>
-<td>
-    [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/ruby.png" width="40">](https://www.tutorialspoint.com/ruby/index.htm)
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/ruby.png" width="40">
 </td>
 </table>
 
