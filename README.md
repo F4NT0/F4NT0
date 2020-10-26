@@ -24,21 +24,53 @@
 [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/website.png">](https://f4nt0.github.io/PR0GR4M1NG/)|[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/linkedin.png">](https://www.linkedin.com/in/gabriel-fanto-stundner-b19723164/) |[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/twitter.png">](https://twitter.com/GABRIELFANTO) |[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/facebook.png">](https://www.facebook.com/gabrielfanto) |[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/youtube.png">](https://www.youtube.com/channel/UC0OLmUgRYTryGlpd4wCqkAA?view_as=subscriber) |
 |---|---|---|---|---|
 
-### Recently working with:
+### Technologies
 
-##### Languages
-
-Java 8+ | Python 2 && 3 | Typescript | Javascript | Shell Script | Ruby | C
-|---|---|---|---|---|---|---|
-<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/java.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/python.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/typescript.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/javascript.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/shell.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/ruby.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/c.png" width="40">
+##### Languages 
 
 <table>
+<tr>
+    Java
+</tr>
 <td>
     <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/java.png" width="40">
 </td>
 <tr>
-    Java 8+
+    Python
 </tr>
+<td>
+     <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/python.png" width="40">
+</td>
+<tr>
+    Javascript
+</tr>
+<td>
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/javascript.png" width="40">
+</td>
+<tr>
+    Typescript
+</tr>
+<td>
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/typescript.png" width="40"> 
+</td>
+<tr>
+    Shell Script
+</tr>
+<td>
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/shell.png" width="40">
+</td>
+<tr>
+    C
+</tr>
+<td>
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/c.png" width="40">
+</td>
+<tr>
+    Ruby
+</tr>
+<td>
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/ruby.png" width="40">
+</td>
 </table>
 
 
