@@ -97,9 +97,28 @@
 
 ##### Operational Systems
 
-| Manjaro Architect && i3 | Ubuntu 16.04 && 18.04 | Linux Mint | Windows | MacOSX |
-|---|---|---|---|---|
-<img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/manjaro-2.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/ubuntu-2.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/mint-2.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/windows-2.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/macosx.png" width="40">
+<table>
+<td>
+    <p>Manjaro</p>
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/manjaro-2.png" width="40">
+</td>
+<td>
+    <p>Ubuntu</p>
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/ubuntu-2.png" width="40">
+</td>
+<td>
+    <p>Linux Mint</p>
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/mint-2.png" width="40">    
+</td>
+<td>
+    <p>Windows</p>
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/windows-2.png" width="40">    
+</td>
+<td>
+    <p>MacOSX</p>
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/macosx.png" width="40">    
+</td>
+</table>
 
 ##### My Organizations to organize study Repos
 
