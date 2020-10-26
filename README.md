@@ -33,15 +33,14 @@ Java 8+ | Python 2 && 3 | Typescript | Javascript | Shell Script | Ruby | C
 <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/java.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/python.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/typescript.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/javascript.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/shell.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/ruby.png" width="40"> | <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/c.png" width="40">
 
 <table>
-<tr>
-<tr>
 <td>
     <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/java.png" width="40">
 </td>
-<td>
-    **Java 8+**
-</td>
+<tr>
+    Java 8+
+</tr>
 </table>
+
 
 ##### Technologies 
 
