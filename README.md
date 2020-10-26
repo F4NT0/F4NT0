@@ -33,21 +33,27 @@
     <h6>Java</h6>
     <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/java.png" width="40">
 <td>
+    <h6>Python</h6>
     <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/python.png" width="40">
 </td>
 <td>
+    <h6>Javascript</h6>
     <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/javascript.png" width="40">
 </td>
 <td>
+    <h6>Typescript</h6>
     <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/typescript.png" width="40">
 </td>
 <td>
+    <h6>Shell Script</h6>
     <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/shell.png" width="40">
 </td>
 <td>
+    <h6>C</h6>
     <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/c.png" width="40">
 </td>
 <td>
+    <h6>Ruby</h6>
     <img src="https://github.com/F4NT0/F4NT0/blob/master/images/icons/ruby.png" width="40">
 </td>
 </table>
