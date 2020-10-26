@@ -122,7 +122,7 @@
 
 ##### My Organizations to organize study Repos
 
-Open Source | Scholar Projects | Forked Repos | Projects to Reutilize | Playground | Language Studies | Operational Systems
+Open Source | Scholar | Forks | Complete Projects | Playground | Languages | OS
 |---|---|---|---|---|---|---|
 [![](images/comunities/fanto-technology.png)](https://github.com/f-4-n-t-0-technology)|[![](images/comunities/trabalhos-facul.png)](https://github.com/trabalhos-da-faculdade)|[![](images/comunities/repo-fork.png)](https://github.com/fanto-forked-repos)|[![](images/comunities/codigo-alunos.png)](https://github.com/estudosdofantinho)|[![](images/comunities/playground.png)](https://github.com/testefantinho)|[![](images/comunities/linguagens.png)](https://github.com/fantolanguages)|[![](images/comunities/os.png)](https://github.com/OSOSP)
 
