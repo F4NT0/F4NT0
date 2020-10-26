@@ -122,13 +122,13 @@
 
 ##### My Organizations Links
 
-* [![](<img src="images/comunities/fanto-technology.png" width="40">)](https://github.com/f-4-n-t-0-technology) = Open Source Projects
-* [![](<img src="images/comunities/trabalhos-facul.png" width="40">)](https://github.com/trabalhos-da-faculdade) = University Projects
-* [![](<img src="images/comunities/repo-fork.png" width="40">)](https://github.com/fanto-forked-repos) = Forked Projects
-* [![](<img src="images/comunities/codigo-alunos.png" width="40">)](https://github.com/estudosdofantinho) = Complete Projects
-* [![](<img src="images/comunities/playground.png" width="40">)](https://github.com/testefantinho) = Test Projects
-* [![](<img src="images/comunities/linguagens.png" width="40">)](https://github.com/fantolanguages) = Languages Studies
-* [![](<img src="images/comunities/os.png" width="40">)](https://github.com/OSOSP) = Operational System Projects
+* [![](<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/fanto-technology.png" width="40">)](https://github.com/f-4-n-t-0-technology) = Open Source Projects
+* [![](<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/trabalhos-facul.png" width="40">)](https://github.com/trabalhos-da-faculdade) = University Projects
+* [![](<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/repo-fork.png" width="40">)](https://github.com/fanto-forked-repos) = Forked Projects
+* [![](<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/codigo-alunos.png" width="40">)](https://github.com/estudosdofantinho) = Complete Projects
+* [![](<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/playground.png" width="40">)](https://github.com/testefantinho) = Test Projects
+* [![](<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/linguagens.png" width="40">)](https://github.com/fantolanguages) = Languages Studies
+* [![](<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/os.png" width="40">)](https://github.com/OSOSP) = Operational System Projects
 
 ##### Tips
 
