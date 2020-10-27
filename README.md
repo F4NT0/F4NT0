@@ -125,31 +125,31 @@
 <table>
     <td>
         <p>F4NT0 Technology</p>
-        [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/fanto-technology.png" width="40">](https://github.com/f-4-n-t-0-technology)
+        <a href="https://github.com/f-4-n-t-0-technology"><img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/fanto-technology.png" width="40"></a>
     </td>
     <td>
         <p>Scholar Works</p>
-        [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/trabalhos-facul.png" width="40">](https://github.com/trabalhos-da-faculdade)
+        <a href="https://github.com/trabalhos-da-faculdade"><img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/trabalhos-facul.png" width="40"></a>
     </td>
     <td>
         <p>Forked Repos</p>
-        [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/repo-fork.png" width="40">](https://github.com/fanto-forked-repos)
+        <a href="https://github.com/fanto-forked-repos"><img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/repo-fork.png" width="40"></a>
     </td>
     <td>
         <p>Study Repos</p>
-        [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/codigo-alunos.png" width="40">](https://github.com/estudosdofantinho)
+        <a href="https://github.com/estudosdofantinho"><img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/codigo-alunos.png" width="40"></a>
     </td>
     <td>
         <p>Playground</p>
-        [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/playground.png" width="40">](https://github.com/testefantinho)
+        <a href="https://github.com/testefantinho"><img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/playground.png" width="40"></a>
     </td>
     <td>
         <p>Programming Languages</p>
-        [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/linguagens.png" width="40">](https://github.com/fantolanguages)
+        <a href="https://github.com/fantolanguages"><img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/linguagens.png" width="40"></a>
     </td>
     <td>
         <p>Operational Systems</p>
-        [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/os.png" width="40">](https://github.com/OSOSP)
+        <a href="https://github.com/OSOSP"><img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/os.png" width="40"></a>
     </td>
 </table
 
