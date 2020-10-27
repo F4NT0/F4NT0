@@ -122,24 +122,41 @@
 
 ##### My Organizations Links
 
-[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/fanto-technology.png" width="40">](https://github.com/f-4-n-t-0-technology) = Open Source Projects
-
-[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/trabalhos-facul.png" width="40">](https://github.com/trabalhos-da-faculdade) = University Projects
-
-[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/repo-fork.png" width="40">](https://github.com/fanto-forked-repos) = Forked Projects
-
-[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/codigo-alunos.png" width="40">](https://github.com/estudosdofantinho) = Complete Projects
-
-[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/playground.png" width="40">](https://github.com/testefantinho) = Test Projects
-
-[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/linguagens.png" width="40">](https://github.com/fantolanguages) = Languages Studies
-
-[<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/os.png" width="40">](https://github.com/OSOSP) = Operational System Projects
+<table>
+    <td>
+        <p>F4NT0 Technology</p>
+        [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/fanto-technology.png" width="40">](https://github.com/f-4-n-t-0-technology)
+    </td>
+    <td>
+        <p>Scholar Works</p>
+        [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/trabalhos-facul.png" width="40">](https://github.com/trabalhos-da-faculdade)
+    </td>
+    <td>
+        <p>Forked Repos</p>
+        [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/repo-fork.png" width="40">](https://github.com/fanto-forked-repos)
+    </td>
+    <td>
+        <p>Study Repos</p>
+        [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/codigo-alunos.png" width="40">](https://github.com/estudosdofantinho)
+    </td>
+    <td>
+        <p>Playground</p>
+        [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/playground.png" width="40">](https://github.com/testefantinho)
+    </td>
+    <td>
+        <p>Programming Languages</p>
+        [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/linguagens.png" width="40">](https://github.com/fantolanguages)
+    </td>
+    <td>
+        <p>Operational Systems</p>
+        [<img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/os.png" width="40">](https://github.com/OSOSP)
+    </td>
+</table
 
 ##### Tips
-
-❱ [Java ForEach Template](https://gist.github.com/F4NT0/f78cca6d9442e1a25b45eb673c8cc043)
 
 ❱ [TUI Unicode Characters](https://gist.github.com/F4NT0/0e77a9d56415e57011a4cb243b658033)
 
 ❱ [ANSI Colors in Terminal](https://gist.github.com/F4NT0/afec936ed4175bed1eac74cef69655b2)
+
+❱ [Emoji Guide to my Repos](https://gist.github.com/F4NT0/854240bd1cd86f518bbd5eb6605d3bbc)
