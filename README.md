@@ -140,7 +140,7 @@
         <a href="https://github.com/estudosdofantinho"><img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/codigo-alunos.png" width="40"></a>
     </td>
     <td>
-        <p>Playground</p>
+        <p>Playground Codes</p>
         <a href="https://github.com/testefantinho"><img src="https://github.com/F4NT0/F4NT0/blob/master/images/comunities/playground.png" width="40"></a>
     </td>
     <td>
