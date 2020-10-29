@@ -153,8 +153,9 @@
     </td>
 </table
 
-### Tips
+---
 
+**Tips**
 
 ❱ [TUI Unicode Characters](https://gist.github.com/F4NT0/0e77a9d56415e57011a4cb243b658033)
 
