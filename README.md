@@ -47,3 +47,5 @@
 ❱ [TUI Unicode Characters](https://gist.github.com/F4NT0/0e77a9d56415e57011a4cb243b658033)
 
 ❱ [ANSI Colors in Terminal](https://gist.github.com/F4NT0/afec936ed4175bed1eac74cef69655b2)
+
+❱ [Emoji Guide to my Repos](https://gist.github.com/F4NT0/854240bd1cd86f518bbd5eb6605d3bbc)
