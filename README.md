@@ -26,6 +26,8 @@
 
 ##### My Organizations Links
 
+* I use Organizations to organize all my Repositories, not all projects are in this account.
+
 <table>
     <td>
         <p>F4NT0 Technology</p>
