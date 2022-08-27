@@ -1,3 +1,18 @@
-<center>⚔️If nothing appears, reload the page ⚔️</center
+# Gabriel Fanto Stundner
+🕒 Joined Github 6 years ago
 
-![Metrics](https://metrics.lecoq.io/F4NT0?template=classic&isocalendar=1&languages=1&introduction=1&gists=1&achievements=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=4&config.timezone=America%2FSao_Paulo)
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
+---
+
+## About me 👨‍💻 
+
+* Software Developer for almost 5 years
+* Software Engineering student at PUCRS University
+* Junior Backend Software Developer at [Digifred](https://digifred.com.br/)
+
+---
+
+## Best Projects 
