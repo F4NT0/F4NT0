@@ -15,6 +15,12 @@
 
 ---
 
+## My Tech Knowledge
+
+* Repository Websites i use: [](https://badgen.net/badge/icon/github/grey?icon=github&label) [](https://badgen.net/badge/icon/gitlab/orange?icon=gitlab&label) 
+
+---
+
 ## Best Projects 
 
 1. 
