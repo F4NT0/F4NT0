@@ -12,7 +12,6 @@
 * Software Developer for almost 5 years.
 * Software Engineering student at PUCRS University.
 * Junior Backend Software Developer at [Digifred](https://digifred.com.br/).
-* Married with a SRE woman.
 * Looking to become a Senior Backend Developer.
 
 ---
@@ -27,13 +26,14 @@
 | Databases             | ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white) ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                    |
 | Operational Systems   | ![](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white) ![](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | CI/CD                 | ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![](https://img.shields.io/badge/Travis-E4D766?style=for-the-badge&logo=travis&logoColor=white) ![](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-| Front-end| ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+| Front-end| ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)|
 ---
 
-## Best Projects 
+## My organizations
 
-[![](https://img.shields.io/badge/ARCHITECT_I3-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fanto-Templates/ARCHITECT_I3)
-[![](https://img.shields.io/badge/Maven_template-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fanto-Templates/Maven_Template)
-[![](https://img.shields.io/badge/Spring_rest_template-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fanto-Templates/Spring_Rest_Template)
-[![](https://img.shields.io/badge/my_git_course-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/F4NT0/ages-online-git)
-[![](https://img.shields.io/badge/my_website-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/F4NT0/PR0GR4M1NG)
+* I use organizations to organize my repositories, on my Profile there are my personal projects, the organizations are for my studies, templates and other stuffs I've created.
+
+|   ||||
+|---|---|---|---|
+| [<img src="images/gif/Estudos-Fanto-Animated.gif" width=200 height=200>](https://github.com/fanto-estudos) |[<img src="images/gif/Fanto-Template-animated.gif" width=200 height=200>](https://github.com/Fanto-Templates)|[<img src="images/gif/Trabalho-Faculdade-Animated.gif" width=200 height=200>](https://github.com/trabalhos-da-faculdade) |[<img src="images/gif/Algoritmos-Avancados-Animated.gif" width=200 height=200>](https://github.com/fanto-algoritmos) |
+
