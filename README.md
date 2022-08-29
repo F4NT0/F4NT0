@@ -1,4 +1,4 @@
-# Gabriel Fanto Stundner
+# Welcome to my tech world!
 🕒 Joined Github 6 years ago
 
 <p align="center">
@@ -35,3 +35,5 @@
 [![](https://img.shields.io/badge/ARCHITECT_I3-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fanto-Templates/ARCHITECT_I3)
 [![](https://img.shields.io/badge/Maven_template-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fanto-Templates/Maven_Template)
 [![](https://img.shields.io/badge/Spring_rest_template-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fanto-Templates/Spring_Rest_Template)
+[![](https://img.shields.io/badge/my_git_course-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/F4NT0/ages-online-git)
+[![](https://img.shields.io/badge/my_website-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/F4NT0/PR0GR4M1NG)
