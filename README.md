@@ -35,5 +35,5 @@
 
 |   ||||
 |---|---|---|---|
-| [<img src="images/gif/Estudos-Fanto-Animated.gif" width=200 height=200>](https://github.com/fanto-estudos) |[<img src="images/gif/Fanto-Template-animated.gif" width=200 height=200>](https://github.com/Fanto-Templates)|[<img src="images/gif/Trabalho-Faculdade-Animated.gif" width=200 height=200>](https://github.com/trabalhos-da-faculdade) |[<img src="images/gif/Algoritmos-Avancados-Animated.gif" width=200 height=200>](https://github.com/fanto-algoritmos) |
+| [<img src="images/gif/Estudos-Fanto-Animated.gif" width=150 height=150>](https://github.com/fanto-estudos) |[<img src="images/gif/Fanto-Template-animated.gif" width=150 height=150>](https://github.com/Fanto-Templates)|[<img src="images/gif/Trabalho-Faculdade-Animated.gif" width=150 height=150>](https://github.com/trabalhos-da-faculdade) |[<img src="images/gif/Algoritmos-Avancados-Animated.gif" width=150 height=150>](https://github.com/fanto-algoritmos) |
 
