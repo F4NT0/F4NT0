@@ -1,4 +1,4 @@
-# Welcome to my tech world!
+# $${\color{red}Welcome \space \color{lightblue}to \space \color{yellow}my \space \color{lightgreen}tech \space \color{purple}world!}$$
 🕒 Joined Github 6 years ago
 
 <p align="center">
