@@ -1,4 +1,7 @@
-# $${\color{red}Welcome \space \color{lightblue}to \space \color{yellow}my \space \color{lightgreen}tech \space \color{purple}world!}$$
+# $${\color{purple} \boxed{ \frak{ \color{orange}Rise \space \color{cyan}and \space \color{magenta}Rise \space \color{lime}again \space \color{violet}until \space \color{lightgray}Lambs \space \color{teal}become \space \color{red}Lions !} } }$$
+
+---
+
 🕒 Joined Github 6 years ago
 
 <p align="center">
@@ -7,16 +10,18 @@
 
 ---
 
-## About me 👨‍💻 
+## $${\color{white}\boxed{\color{yellow}\mathbb{About} \space \mathbb{Me}}}$$ 
 
 * Software Developer for almost 5 years.
-* Software Engineering student at PUCRS University.
-* Junior Backend Software Developer at [Digifred](https://digifred.com.br/).
-* Looking to become a Senior Backend Developer.
+* Software Engineering Student at PUCRS University.
+* Backend Software Developer at [Digifred](https://digifred.com.br/).
+* My goal is to become a Senior Backend Software Developer.
+
+
 
 ---
 
-## My Tech Knowledge
+## $${\color{white}\boxed{\color{yellow}\mathbb{My} \space \mathbb{Tech} \space \mathbb{Knowledge}}}$$ 
 
 | Info                  | Techs                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -29,9 +34,9 @@
 | Front-end| ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)|
 ---
 
-## My organizations
+## $${\color{white}\boxed{\color{yellow}\mathbb{My} \space \mathbb{Organizations}}}$$ 
 
-* I use organizations to organize my repositories, on my Profile there are my personal projects, the organizations are for my studies, templates and other stuffs I've created.
+* These Organizations below is where I keep my projects organized, in my main Profile I keep the Portfolio projects.
 
 |   ||||
 |---|---|---|---|
