@@ -14,7 +14,6 @@
 
 * Software Developer for almost 5 years.
 * Software Engineering Student at PUCRS University.
-* Backend Software Developer at [Digifred](https://digifred.com.br/).
 * My goal is to become a Senior Backend Software Developer.
 
 
