@@ -1,4 +1,4 @@
-# $${\color{purple} \boxed{ \frak{ \color{orange}Rise \space \color{cyan}and \space \color{magenta}Rise \space \color{lime}again \space \color{violet}until \space \color{lightgray}Lambs \space \color{teal}become \space \color{red}Lions !} } }$$
+# $$\boxed{ \frak{ Rise \space and \space Rise \space again \space until \space Lambs \space become \space Lions !} } $$
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-## $${\color{blue}\boxed{\color{lime}\mathbb{About} \space \mathbb{Me}}}$$ 
+## $${\boxed{\mathbb{About} \space \mathbb{Me}}}$$ 
 
 * Software Developer for almost 5 years.
 * Software Engineering Student at PUCRS University.
@@ -20,7 +20,7 @@
 
 ---
 
-## $${\color{blue}\boxed{\color{lime}\mathbb{My} \space \mathbb{Tech} \space \mathbb{Knowledge}}}$$ 
+## $${\boxed{\mathbb{My} \space \mathbb{Tech} \space \mathbb{Knowledge}}}$$ 
 
 | Info                  | Techs                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -33,7 +33,7 @@
 | Front-end| ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)|
 ---
 
-## $${\color{blue}\boxed{\color{lime}\mathbb{My} \space \mathbb{Organizations}}}$$ 
+## $${\boxed{\mathbb{My} \space \mathbb{Organizations}}}$$ 
 
 * These Organizations below is where I keep my projects organized, in my main Profile I keep the Portfolio projects.
 
