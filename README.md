@@ -41,3 +41,14 @@
 |---|---|---|---|
 | [<img src="images/gif/Estudos-Fanto-Animated.gif" width=150 height=150>](https://github.com/fanto-estudos) |[<img src="images/gif/Fanto-Template-animated.gif" width=150 height=150>](https://github.com/Fanto-Templates)|[<img src="images/gif/Trabalho-Faculdade-Animated.gif" width=150 height=150>](https://github.com/trabalhos-da-faculdade) |[<img src="images/gif/Algoritmos-Avancados-Animated.gif" width=150 height=150>](https://github.com/fanto-algoritmos) |
 
+---
+
+## $${\boxed{\mathbb{Latest} \space \mathbb{Video}}}$$ 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18719295/234381376-c6dba2f6-2b0d-4e86-9ae7-76a32faf7fdf.png" width=600 heigth=600>
+  <br>
+  <a href="https://youtu.be/YcW7CLAQJjQ">CLICK HERE</a>
+</p>
+
+
