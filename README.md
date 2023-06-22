@@ -105,7 +105,19 @@
 
 ---
 
-## $$$$
+## $$\boxed{\mathbb{My} \space \mathbb{Technology} \space \mathbb{map}}$$
+
+```mermaid
+pie title Repository Language Distribution
+    "C#" : 6
+    "C": 1
+    "Java" : 18
+    "Python" : 9
+    "Powershell" : 2
+    "Shell" : 8
+    "Markdown" : 11
+    "Javascript" : 5
+```
 
 ## $${\boxed{\mathbb{My} \space \mathbb{Organizations}}}$$ 
 
