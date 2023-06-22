@@ -103,21 +103,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=F4NT0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=F4NT0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/F4NT0/count.svg?"  />
-</div>
-
-###
 ---
+
+## $$$$
 
 ## $${\boxed{\mathbb{My} \space \mathbb{Organizations}}}$$ 
 
@@ -127,7 +115,6 @@
 |---|---|---|---|
 | [<img src="images/gif/Estudos-Fanto-Animated.gif" width=150 height=150>](https://github.com/fanto-estudos") |[<img src="images/gif/Fanto-Template-animated.gif" width=150 height=150>](https://github.com/Fanto-Templates")|[<img src="images/gif/Trabalho-Faculdade-Animated.gif" width=150 height=150>](https://github.com/trabalhos-da-faculdade") |[<img src="images/gif/Algoritmos-Avancados-Animated.gif" width=150 height=150>](https://github.com/fanto-algoritmos") |
 
----
 
 ## $${\boxed{\mathbb{Latest} \space \mathbb{Video}}}$$ 
 
