@@ -110,7 +110,7 @@
 ```mermaid
 pie title Repository Language Distribution
     "C#" : 6
-    "C": 1
+    "C": 2
     "Java" : 18
     "Python" : 9
     "Powershell" : 2
