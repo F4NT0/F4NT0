@@ -119,6 +119,8 @@ pie title Repository Language Distribution
     "Javascript" : 5
 ```
 
+---
+
 ## $${\boxed{\mathbb{My} \space \mathbb{Organizations}}}$$ 
 
 * These Organizations below is where I keep my projects organized, in my main Profile I keep the Portfolio projects.
