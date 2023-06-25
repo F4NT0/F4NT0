@@ -28,6 +28,16 @@
 
 $$\sf Languages$$
 
+<table>
+  <tr>
+    <th><img src="images/icons/C#_badge.png" height="40"></th>
+  </tr>
+  <tr>
+    <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/">Documentation</a></td>
+  </tr>
+</table>
+
+
 ###
 
 <div align="Center">
