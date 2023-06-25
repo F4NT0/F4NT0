@@ -30,10 +30,29 @@ $$\sf Languages$$
 
 <table>
   <tr>
-    <th><img src="images/icons/C#_badge.png" height="40"></th>
+    <th><img src="https://github.com/F4NT0/F4NT0/assets/18719295/9f076c87-0d50-4164-b1d4-a83f9be25070" height="40"></th>
+    <th><img src="https://github.com/F4NT0/F4NT0/assets/18719295/d107bc2f-ed19-4a4e-bbf4-513db271f1ee" height="40"></th>
+    <th><img src="https://github.com/F4NT0/F4NT0/assets/18719295/a9b8123e-0475-4aee-b1fd-9f3a0340fa51" height="40"></th>
+    <th><img src="https://github.com/F4NT0/F4NT0/assets/18719295/a96b8a17-2eba-49f4-bec5-a22a3717579a" height="40"></th>
+    <th><img src="https://github.com/F4NT0/F4NT0/assets/18719295/02bfba01-5fa7-4a8d-b206-abb8b7bf4e99" height="40"></th>
   </tr>
   <tr>
     <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/">Documentation</a></td>
+    <td><a href="https://www.tutorialspoint.com/java/index.htm">Documentation</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+     <th><img src="https://github.com/F4NT0/F4NT0/assets/18719295/975308e6-202b-4863-b902-15c75838f220" height="40"></th>
+    <th><img src="https://github.com/F4NT0/F4NT0/assets/18719295/a614d1b7-d32c-4b74-b1c5-17cd942f57c8" height="40"></th>
+    <th><img src="https://github.com/F4NT0/F4NT0/assets/18719295/dc5b543b-e396-4470-8137-4336967c7bc5" height="40"></th>
+    <th><img src="https://github.com/F4NT0/F4NT0/assets/18719295/677b17f6-0eda-4d4c-92a0-cc9cc602bb60" height="40"></th>
+    <th><img src="https://github.com/F4NT0/F4NT0/assets/18719295/4fafc490-0ddc-4940-806a-ad8b09191751" height="40"></th>
+  </tr>
+  <tr>
+    <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/">Documentation</a></td>
+    <td><a href="https://www.tutorialspoint.com/java/index.htm">Documentation</a></td>
   </tr>
 </table>
 
