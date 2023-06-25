@@ -10,7 +10,7 @@
 
 ---
 
-## $${\boxed{\color{#55AC4C} \mathbb{About} \space \mathbb{Me}}}$$ 
+## $${\boxed{\color{#55AC4C} \sf{About} \space \sf{Me}}}$$ 
  
 ➡️ Software Developer for almost 6 years.
 
@@ -22,95 +22,7 @@
 
 ---
 
-## $${\boxed{\color{magenta} \mathbb{Tech} \space \mathbb{Mastery}}}$$
-
-###
-
-$$\sf Languages$$
-
-###
-
-<div align="Center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" width="52" alt="ruby logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" width="52" alt="haskell logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="52" alt="go logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" width="52" alt="markdown logo"  />
-</div>
-
-###
-
-$$\sf Frameworks$$
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt="dotnetcore logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
-</div>
-
-###
-
-$$\sf Databases$$
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
-</div>
-
-###
-
-$$\sf Operational Systems$$
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="52" alt="windows8 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-</div>
-
-###
-
-$$\sf CI/CD$$
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" height="40" width="52" alt="travis logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" width="52" alt="jenkins logo"  />
-</div>
-
-###
-
-$$\sf Web development$$
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-</div>
-
----
-
-## $$\boxed{\color{#7F7FFF} \mathbb{My} \space \mathbb{Technology} \space \mathbb{map}}$$
+## $$\boxed{\color{#7F7FFF} \sf{My} \space \sf{Technology} \space \sf{map}}$$
 
 ```mermaid
 pie title Repository Language Distribution
@@ -126,22 +38,201 @@ pie title Repository Language Distribution
 
 ---
 
-## $${\boxed{\color{#FD2654} \mathbb{My} \space \mathbb{Organizations}}}$$ 
+## $${\boxed{\color{magenta} \sf{Tech \space Mastery}}}$$
 
-* These Organizations below is where I keep my projects organized, in my main Profile I keep the Portfolio projects.
+### $$\sf Programming \space Languages$$
 
-|   ||||
-|---|---|---|---|
-| [<img src="images/gif/Estudos-Fanto-Animated.gif" width=150 height=150>](https://github.com/fanto-estudos") |[<img src="images/gif/Fanto-Template-animated.gif" width=150 height=150>](https://github.com/Fanto-Templates")|[<img src="images/gif/Trabalho-Faculdade-Animated.gif" width=150 height=150>](https://github.com/trabalhos-da-faculdade") |[<img src="images/gif/Algoritmos-Avancados-Animated.gif" width=150 height=150>](https://github.com/fanto-algoritmos") |
+<div align="center">
+  <table>
+    <tr>
+      <th><img src="images/languages/C%23_badge.png" height="40"></th>
+      <th><img src="images/languages/Java_badge.png" height="40"></th>
+      <th><img src="images/languages/Python_badge.png" height="40"></th>
+      <th><img src="images/languages/Javascript_badge.png" height="40"></th>
+      <th><img src="images/languages/Typescript_badge.png" height="40"></th>
+    </tr>
+    <tr>
+      <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/">Documentation</a></td>
+      <td><a href="https://www.tutorialspoint.com/java/index.htm">Documentation</a></td>
+      <td><a href="https://www.python.org/">Documentation</a></td>
+      <td><a href="https://devdocs.io/javascript/">Documentation</a></td>
+      <td><a href="https://devdocs.io/typescript/">Documentation</a></td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <th><img src="images/languages/Ruby_badge.png" height="40"></th>
+      <th><img src="images/languages/Kotlin_badge.png" height="40"></th>
+      <th><img src="images/languages/Go_badge.png" height="40"></th>
+      <th><img src="images/languages/C_badge.png" height="40"></th>
+      <th><img src="images/languages/Dart_badge.png" height="40"></th>
+    </tr>
+    <tr>
+      <td><a href="https://ruby-doc.org/3.2.2/">Documentation</a></td>
+      <td><a href="https://kotlinlang.org/docs/home.html">Documentation</a></td>
+      <td><a href="https://go.dev/doc/">Documentation</a></td>
+      <td><a href="https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170">Documentation</a></td>
+      <td><a href="https://dart.dev/guides">Documentation</a></td>
+    </tr>
+  </table>
+</div>
+
+### $$\sf Markup \space Languages$$
+
+<div align="center">
+  <table>
+    <tr>
+       <th><img src="images/languages/Markdown_badge.png" height="40"></th>
+       <th><img src="images/languages/Latex_badge.png" height="40"></th>
+       <th><img src="images/languages/Katex_badge.png" height="40"></th>
+    </tr>
+    <tr>
+      <td><a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Documentation</a></td>
+      <td><a href="https://www.overleaf.com/learn">Documentation</a></td>
+      <td><a href="https://katex.org/docs/supported.html">Documentation</a></td>
+    </tr>
+  </table>
+</div>
+
+### $$\sf Scripting \space Languages$$
+
+<div align="center">
+  <table>
+    <tr>
+      <th><img src="images/languages/Shell_badge.png" height="40"></th>
+      <th><img src="images/languages/Powershell_badge.png" height="40"></th>
+    </tr>
+    <tr>
+      <td><a href="https://www.shellscript.sh/">Documentation</a></td>
+      <td><a href="https://learn.microsoft.com/en-us/powershell/">Documentation</a></td>
+    </tr>
+  </table>
+</div>
+
+### $$\sf Frameworks$$
+
+<div align="center">
+  <table>
+    <tr>
+      <th><img src="images/frameworks/dotnet_badge.png" height="40"></th>
+      <th><img src="images/frameworks/Spring_badge.png" height="40"></th>
+      <th><img src="images/frameworks/Angular_badge.png" height="40"></th>
+      <th><img src="images/frameworks/Flutter_badge.png" height="40"></th>
+    </tr>
+    <tr>
+      <td><a href="https://learn.microsoft.com/en-us/dotnet/">Documentation</a></td>
+      <td><a href="https://docs.spring.io/spring-framework/reference/">Documentation</a></td>
+      <td><a href="https://angular.io/docs">Documentation</a></td>
+      <td><a href="https://docs.flutter.dev/">Documentation</a></td>
+    </tr>
+  </table>
+</div>
+
+### $$\sf Databases$$
+
+<div align="center">
+  <table>
+    <tr>
+      <th><img src="images/databases/Mysql_badge.png" height="40"></th>
+      <th><img src="images/databases/Postgresql_badge.png" height="40"></th>
+      <th><img src="images/databases/Mongodb_badge.png" height="40"></th>
+      <th><img src="images/databases/Firebase_badge.png" height="40"></th>
+    </tr>
+    <tr>
+      <td><a href="https://dev.mysql.com/doc/">Documentation</a></td>
+      <td><a href="https://www.postgresql.org/docs/">Documentation</a></td>
+      <td><a href="https://www.mongodb.com/docs/">Documentation</a></td>
+      <td><a href="https://firebase.google.com/docs/">Documentation</a></td>
+    </tr>
+  </table>
+</div>
+
+### $$\sf Operational \space Systems$$
+
+<div align="center">
+  <table>
+    <tr>
+      <th><img src="images/os/Windows_badge.png" height="40"></th>
+      <th><img src="images/os/Linux_badge.png" height="40"></th>
+    </tr>
+    <tr>
+      <td><a href="https://learn.microsoft.com/pt-br/windows/">Documentation</a></td>
+      <td><a href="https://wiki.manjaro.org/index.php/Main_Page">Documentation</a></td>
+    </tr>
+  </table>
+</div>
+
+### $$\sf CI/CD$$
+
+<div align="center">
+  <table>
+    <tr>
+      <th><img src="images/ci/Jenkins_badge.png" height="40"></th>
+      <th><img src="images/ci/actions_badge.png" height="40"></th>
+    </tr>
+    <tr>
+      <td><a href="https://www.jenkins.io/doc/book/">Documentation</a></td>
+      <td><a href="https://docs.github.com/en/actions">Documentation</a></td>
+    </tr>
+  </table>
+</div>
+
+### $$\sf Web \space development$$
+
+<div align="center">
+  <table>
+    <tr>
+      <th><img src="images/web/Html5_badge.png" height="40"></th>
+      <th><img src="images/web/css3_badge.png" height="40"></th>
+      <th><img src="images/web/Nodejs_badge.png" height="40"></th>
+      <th><img src="images/web/React_badge.png" height="40"></th>
+    </tr>
+    <tr>
+      <td><a href="https://www.w3schools.com/html/html_intro.asp">Documentation</a></td>
+      <td><a href="https://www.w3schools.com/css/default.asp">Documentation</a></td>
+      <td><a href="https://nodejs.org/en/docs">Documentation</a></td>
+      <td><a href="https://react.dev/">Documentation</a></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## $${\boxed{\color{#B19650} \mathbb{Latest} \space \mathbb{Video}}}$$ 
+## $${\boxed{\color{#FD2654} \sf{My} \space \sf{Organizations}}}$$ 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/18719295/234381376-c6dba2f6-2b0d-4e86-9ae7-76a32faf7fdf.png" width=400 heigth=400>
-  <br>
-  <a href="https://youtu.be/YcW7CLAQJjQ">CLICK HERE</a>
-</p>
+* I create the organizations to keep organized my projects separated by topics.
 
+<div align="center">
+  <table>
+    <tr>
+      <th><img src="images/gif/Estudos-Fanto-Animated.gif" width=150 height=150></th>
+      <th><img src="images/gif/Fanto-Template-animated.gif" width=150 height=150></th>
+      <th><img src="images/gif/Trabalho-Faculdade-Animated.gif" width=150 height=150></th>
+      <th><img src="images/gif/Algoritmos-Avancados-Animated.gif" width=150 height=150></th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/fanto-estudos">Go to Organization</a></td>
+      <td><a href="https://github.com/Fanto-Templates">Go to Organization</a></td>
+      <td><a href="https://github.com/trabalhos-da-faculdade">Go to Organization</a></td>
+      <td><a href="https://github.com/fanto-algoritmos">Go to Organization</a></td>
+    </tr>
+  </table>
+</div>
 
+---
+
+## $${\boxed{\color{#B19650} \sf{My} \space \sf{Latest} \space \sf{Video}}}$$
+
+<div align="center">
+  <table>
+    <tr>
+      <th><img src="https://user-images.githubusercontent.com/18719295/234381376-c6dba2f6-2b0d-4e86-9ae7-76a32faf7fdf.png" width=400 heigth=400></th>
+    </tr>
+    <tr>
+      <td><a align="center" href="https://youtu.be/YcW7CLAQJjQ">Open video on Youtube</a></td>
+    </tr>
+  </table>
+</div>
