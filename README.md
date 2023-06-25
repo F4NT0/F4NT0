@@ -201,29 +201,6 @@ pie title Repository Language Distribution
 
 ---
 
-## $${\boxed{\color{#FD2654} \sf{My} \space \sf{Organizations}}}$$ 
-
-* I create the organizations to keep organized my projects separated by topics.
-
-<div align="center">
-  <table>
-    <tr>
-      <th><img src="images/gif/Estudos-Fanto-Animated.gif" width=150 height=150></th>
-      <th><img src="images/gif/Fanto-Template-animated.gif" width=150 height=150></th>
-      <th><img src="images/gif/Trabalho-Faculdade-Animated.gif" width=150 height=150></th>
-      <th><img src="images/gif/Algoritmos-Avancados-Animated.gif" width=150 height=150></th>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/fanto-estudos">Go to Organization</a></td>
-      <td><a href="https://github.com/Fanto-Templates">Go to Organization</a></td>
-      <td><a href="https://github.com/trabalhos-da-faculdade">Go to Organization</a></td>
-      <td><a href="https://github.com/fanto-algoritmos">Go to Organization</a></td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## $${\boxed{\color{#B19650} \sf{My} \space \sf{Latest} \space \sf{Video}}}$$
 
 <div align="center">
