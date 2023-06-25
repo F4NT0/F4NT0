@@ -22,63 +22,75 @@
 
 ---
 
-## $${\boxed{\color{magenta} \mathbb{Tech} \space \mathbb{Mastery}}}$$
+## $${\boxed{\color{magenta} \sf Tech \space Mastery}}$$
 
-###
-
-$$\sf Languages$$
+### $$\sf Programming \space Languages$$
 
 <table>
   <tr>
-    <th><img src="https://github.com/F4NT0/F4NT0/assets/18719295/9f076c87-0d50-4164-b1d4-a83f9be25070" height="40"></th>
-    <th><img src="https://github.com/F4NT0/F4NT0/assets/18719295/d107bc2f-ed19-4a4e-bbf4-513db271f1ee" height="40"></th>
-    <th><img src="https://github.com/F4NT0/F4NT0/assets/18719295/a9b8123e-0475-4aee-b1fd-9f3a0340fa51" height="40"></th>
-    <th><img src="https://github.com/F4NT0/F4NT0/assets/18719295/a96b8a17-2eba-49f4-bec5-a22a3717579a" height="40"></th>
-    <th><img src="https://github.com/F4NT0/F4NT0/assets/18719295/02bfba01-5fa7-4a8d-b206-abb8b7bf4e99" height="40"></th>
+    <th><img src="images/icons/C%23_badge.png" height="40"></th>
+    <th><img src="images/icons/Java_badge.png" height="40"></th>
+    <th><img src="images/icons/Python_badge.png" height="40"></th>
+    <th><img src="images/icons/Javascript_badge.png" height="40"></th>
+    <th><img src="images/icons/Typescript_badge.png" height="40"></th>
   </tr>
   <tr>
     <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/">Documentation</a></td>
     <td><a href="https://www.tutorialspoint.com/java/index.htm">Documentation</a></td>
+    <td><a href="https://www.python.org/">Documentation</a></td>
+    <td><a href="https://devdocs.io/javascript/">Documentation</a></td>
+    <td><a href="https://devdocs.io/typescript/">Documentation</a></td>
   </tr>
 </table>
 
 <table>
   <tr>
-     <th><img src="https://github.com/F4NT0/F4NT0/assets/18719295/975308e6-202b-4863-b902-15c75838f220" height="40"></th>
-    <th><img src="https://github.com/F4NT0/F4NT0/assets/18719295/a614d1b7-d32c-4b74-b1c5-17cd942f57c8" height="40"></th>
-    <th><img src="https://github.com/F4NT0/F4NT0/assets/18719295/dc5b543b-e396-4470-8137-4336967c7bc5" height="40"></th>
-    <th><img src="https://github.com/F4NT0/F4NT0/assets/18719295/677b17f6-0eda-4d4c-92a0-cc9cc602bb60" height="40"></th>
-    <th><img src="https://github.com/F4NT0/F4NT0/assets/18719295/4fafc490-0ddc-4940-806a-ad8b09191751" height="40"></th>
+     <th><img src="images/icons/Ruby_badge.png" height="40"></th>
+    <th><img src="images/icons/Kotlin_badge.png" height="40"></th>
+    <th><img src="images/icons/Go_badge.png" height="40"></th>
+    <th><img src="images/icons/C_badge.png" height="40"></th>
+    <th><img src="images/icons/Dart_badge.png" height="40"></th>
   </tr>
   <tr>
-    <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/">Documentation</a></td>
-    <td><a href="https://www.tutorialspoint.com/java/index.htm">Documentation</a></td>
+    <td><a href="https://ruby-doc.org/3.2.2/">Documentation</a></td>
+    <td><a href="https://kotlinlang.org/docs/home.html">Documentation</a></td>
+    <td><a href="https://go.dev/doc/">Documentation</a></td>
+    <td><a href="https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170">Documentation</a></td>
+    <td><a href="https://dart.dev/guides">Documentation</a></td>
   </tr>
 </table>
 
+### $$\sf Markup \space Languages$$
 
-###
+<table>
+  <tr>
+     <th><img src="images/icons/Markdown_badge.png" height="40"></th>
+    <th><img src="images/icons/Latex_badge.png" height="40"></th>
+    <th><img src="images/icons/Katex_badge.png" height="40"></th>
+  </tr>
+  <tr>
+    <td><a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Documentation</a></td>
+    <td><a href="https://www.overleaf.com/learn">Documentation</a></td>
+    <td><a href="https://katex.org/docs/supported.html">Documentation</a></td>
+  </tr>
+</table>
 
-<div align="Center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" width="52" alt="ruby logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" width="52" alt="haskell logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="52" alt="go logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" width="52" alt="markdown logo"  />
+### $$\sf Scripting \space Languages$$
+
+<div align="center">
+  <table>
+    <tr>
+      <th><img src="images/icons/Shell_badge.png" height="40"></th>
+      <th><img src="images/icons/Powershell_badge.png" height="40"></th>
+    </tr>
+    <tr>
+      <td><a href="https://www.shellscript.sh/">Documentation</a></td>
+      <td><a href="https://learn.microsoft.com/en-us/powershell/">Documentation</a></td>
+    </tr>
+  </table>
 </div>
 
-###
-
-$$\sf Frameworks$$
-
-###
+### $$\sf Frameworks$$
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt="dotnetcore logo"  />
