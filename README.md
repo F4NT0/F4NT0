@@ -10,7 +10,7 @@
 
 ---
 
-## $${\boxed{\color{#55AC4C} \bold{About} \space \bold{Me}}}$$ 
+## $${\boxed{\color{#55AC4C} \sf{About} \space \sf{Me}}}$$ 
  
 ➡️ Software Developer for almost 6 years.
 
@@ -22,7 +22,7 @@
 
 ---
 
-## $$\boxed{\color{#7F7FFF} \bold{My} \space \bold{Technology} \space \bold{map}}$$
+## $$\boxed{\color{#7F7FFF} \sf{My} \space \sf{Technology} \space \sf{map}}$$
 
 ```mermaid
 pie title Repository Language Distribution
@@ -38,7 +38,7 @@ pie title Repository Language Distribution
 
 ---
 
-## $${\boxed{\color{magenta} \bold{Tech \space Mastery}}}$$
+## $${\boxed{\color{magenta} \sf{Tech \space Mastery}}}$$
 
 ### $$\sf Programming \space Languages$$
 
@@ -201,7 +201,7 @@ pie title Repository Language Distribution
 
 ---
 
-## $${\boxed{\color{#FD2654} \bold{My} \space \bold{Organizations}}}$$ 
+## $${\boxed{\color{#FD2654} \sf{My} \space \sf{Organizations}}}$$ 
 
 * I create the organizations to keep organized my projects separated by topics.
 
@@ -211,7 +211,7 @@ pie title Repository Language Distribution
 
 ---
 
-## $${\boxed{\color{#B19650} \bold{My} \space \bold{Latest} \space \bold{Video}}}$$
+## $${\boxed{\color{#B19650} \sf{My} \space \sf{Latest} \space \sf{Video}}}$$
 
 <div align="center">
   <table>
