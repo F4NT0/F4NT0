@@ -26,54 +26,60 @@
 
 ### $$\sf Programming \space Languages$$
 
-<table>
-  <tr>
-    <th><img src="images/icons/C%23_badge.png" height="40"></th>
-    <th><img src="images/icons/Java_badge.png" height="40"></th>
-    <th><img src="images/icons/Python_badge.png" height="40"></th>
-    <th><img src="images/icons/Javascript_badge.png" height="40"></th>
-    <th><img src="images/icons/Typescript_badge.png" height="40"></th>
-  </tr>
-  <tr>
-    <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/">Documentation</a></td>
-    <td><a href="https://www.tutorialspoint.com/java/index.htm">Documentation</a></td>
-    <td><a href="https://www.python.org/">Documentation</a></td>
-    <td><a href="https://devdocs.io/javascript/">Documentation</a></td>
-    <td><a href="https://devdocs.io/typescript/">Documentation</a></td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <th><img src="images/icons/C%23_badge.png" height="40"></th>
+      <th><img src="images/icons/Java_badge.png" height="40"></th>
+      <th><img src="images/icons/Python_badge.png" height="40"></th>
+      <th><img src="images/icons/Javascript_badge.png" height="40"></th>
+      <th><img src="images/icons/Typescript_badge.png" height="40"></th>
+    </tr>
+    <tr>
+      <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/">Documentation</a></td>
+      <td><a href="https://www.tutorialspoint.com/java/index.htm">Documentation</a></td>
+      <td><a href="https://www.python.org/">Documentation</a></td>
+      <td><a href="https://devdocs.io/javascript/">Documentation</a></td>
+      <td><a href="https://devdocs.io/typescript/">Documentation</a></td>
+    </tr>
+  </table>
+</div>
 
-<table>
-  <tr>
-     <th><img src="images/icons/Ruby_badge.png" height="40"></th>
-    <th><img src="images/icons/Kotlin_badge.png" height="40"></th>
-    <th><img src="images/icons/Go_badge.png" height="40"></th>
-    <th><img src="images/icons/C_badge.png" height="40"></th>
-    <th><img src="images/icons/Dart_badge.png" height="40"></th>
-  </tr>
-  <tr>
-    <td><a href="https://ruby-doc.org/3.2.2/">Documentation</a></td>
-    <td><a href="https://kotlinlang.org/docs/home.html">Documentation</a></td>
-    <td><a href="https://go.dev/doc/">Documentation</a></td>
-    <td><a href="https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170">Documentation</a></td>
-    <td><a href="https://dart.dev/guides">Documentation</a></td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <th><img src="images/icons/Ruby_badge.png" height="40"></th>
+      <th><img src="images/icons/Kotlin_badge.png" height="40"></th>
+      <th><img src="images/icons/Go_badge.png" height="40"></th>
+      <th><img src="images/icons/C_badge.png" height="40"></th>
+      <th><img src="images/icons/Dart_badge.png" height="40"></th>
+    </tr>
+    <tr>
+      <td><a href="https://ruby-doc.org/3.2.2/">Documentation</a></td>
+      <td><a href="https://kotlinlang.org/docs/home.html">Documentation</a></td>
+      <td><a href="https://go.dev/doc/">Documentation</a></td>
+      <td><a href="https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170">Documentation</a></td>
+      <td><a href="https://dart.dev/guides">Documentation</a></td>
+    </tr>
+  </table>
+</div>
 
 ### $$\sf Markup \space Languages$$
 
-<table>
-  <tr>
-     <th><img src="images/icons/Markdown_badge.png" height="40"></th>
-    <th><img src="images/icons/Latex_badge.png" height="40"></th>
-    <th><img src="images/icons/Katex_badge.png" height="40"></th>
-  </tr>
-  <tr>
-    <td><a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Documentation</a></td>
-    <td><a href="https://www.overleaf.com/learn">Documentation</a></td>
-    <td><a href="https://katex.org/docs/supported.html">Documentation</a></td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+       <th><img src="images/icons/Markdown_badge.png" height="40"></th>
+       <th><img src="images/icons/Latex_badge.png" height="40"></th>
+       <th><img src="images/icons/Katex_badge.png" height="40"></th>
+    </tr>
+    <tr>
+      <td><a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Documentation</a></td>
+      <td><a href="https://www.overleaf.com/learn">Documentation</a></td>
+      <td><a href="https://katex.org/docs/supported.html">Documentation</a></td>
+    </tr>
+  </table>
+</div>
 
 ### $$\sf Scripting \space Languages$$
 
