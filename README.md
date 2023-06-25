@@ -205,9 +205,22 @@ pie title Repository Language Distribution
 
 * I create the organizations to keep organized my projects separated by topics.
 
-|   ||||
-|---|---|---|---|
-| [<img src="images/gif/Estudos-Fanto-Animated.gif" width=150 height=150>](https://github.com/fanto-estudos") |[<img src="images/gif/Fanto-Template-animated.gif" width=150 height=150>](https://github.com/Fanto-Templates")|[<img src="images/gif/Trabalho-Faculdade-Animated.gif" width=150 height=150>](https://github.com/trabalhos-da-faculdade") |[<img src="images/gif/Algoritmos-Avancados-Animated.gif" width=150 height=150>](https://github.com/fanto-algoritmos") |
+<div align="center">
+  <table>
+    <tr>
+      <th><img src="images/gif/Estudos-Fanto-Animated.gif" width=150 height=150></th>
+      <th><img src="images/gif/Fanto-Template-animated.gif" width=150 height=150></th>
+      <th><img src="images/gif/Trabalho-Faculdade-Animated.gif" width=150 height=150></th>
+      <th><img src="images/gif/Algoritmos-Avancados-Animated.gif" width=150 height=150></th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/fanto-estudos">Go to Organization</a></td>
+      <td><a href="https://github.com/Fanto-Templates">Go to Organization</a></td>
+      <td><a href="https://github.com/trabalhos-da-faculdade">Go to Organization</a></td>
+      <td><a href="https://github.com/fanto-algoritmos">Go to Organization</a></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -219,9 +232,7 @@ pie title Repository Language Distribution
       <th><img src="https://user-images.githubusercontent.com/18719295/234381376-c6dba2f6-2b0d-4e86-9ae7-76a32faf7fdf.png" width=400 heigth=400></th>
     </tr>
     <tr>
-      <td><a align="center" href="https://youtu.be/YcW7CLAQJjQ">CLICK HERE</a></td>
+      <td><a align="center" href="https://youtu.be/YcW7CLAQJjQ">Open video on Youtube</a></td>
     </tr>
   </table>
 </div>
-
-
