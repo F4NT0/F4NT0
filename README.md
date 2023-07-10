@@ -28,7 +28,7 @@
 pie title Repository Language Distribution
     "C#" : 6
     "C": 2
-    "Java" : 18
+    "Java" : 17
     "Python" : 9
     "Powershell" : 2
     "Shell" : 8
