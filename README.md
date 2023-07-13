@@ -5,7 +5,7 @@
 🕒 Joined Github 7 years ago
 
 <p align="center">
-  <img src="images/gif/My-Banner.gif" width="600">
+  <img src="images/gif/My-Banner.gif" width="300">
 </p>
 
 ---
