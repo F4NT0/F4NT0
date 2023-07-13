@@ -14,7 +14,7 @@
  
 ➡️ Software Developer for almost 6 years.
 
-➡️ Software Engineering Student at PUCRS University.
+➡️ Graduated with a Bachelor's degree in Software Engineering from PUCRS.
 
 ➡️ My goal is to become a Senior Backend Software Developer.
 
