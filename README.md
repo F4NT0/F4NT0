@@ -29,7 +29,7 @@ pie title Repository Language Distribution
     "C#" : 6
     "C": 2
     "Java" : 17
-    "Python" : 9
+    "Python" : 10
     "Powershell" : 2
     "Shell" : 8
     "Markdown" : 11
