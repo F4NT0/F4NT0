@@ -30,10 +30,11 @@ pie title Repository Language Distribution
     "C": 2
     "Java" : 17
     "Python" : 11
-    "Powershell" : 3
+    "Powershell" : 4
     "Shell" : 8
     "Markdown" : 11
     "Javascript" : 5
+    "Lua": 2
 ```
 
 ---
