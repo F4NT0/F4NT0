@@ -1,5 +1,5 @@
 <table align="center"><tr><td align="center" width="9999">
-    <img src="images/github-rise.png" width="400">
+    <img src="images/github-rise.gif" width="400">
 </td></tr></table>
 
 
