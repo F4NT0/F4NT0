@@ -1,5 +1,5 @@
 <table align="center"><tr><td align="center" width="9999">
-    <img src="images/github-rise.png" width="500">
+    <img src="images/github-rise.png" width="400">
 </td></tr></table>
 
 
@@ -7,13 +7,15 @@
 
 🕒 Joined Github 7 years ago
 
-<p align="center">
-  <img src="images/gif/My-Banner.gif">
-</p>
+<table align="center"><tr><td align="center" width="9999">
+    <img src="images/gif/My-Banner.gif" width="800">
+</td></tr></table>
 
 ---
 
-## $${\boxed{\color{#55AC4C} \sf{About} \space \sf{Me}}}$$ 
+<table align="center"><tr><td align="center" width="9999">
+    <img src="images/about-me.png" width="200">
+</td></tr></table>
  
 ➡️ Software Developer for almost 6 years.
 
@@ -25,7 +27,9 @@
 
 ---
 
-## $$\boxed{\color{#7F7FFF} \sf{My} \space \sf{Technology} \space \sf{map}}$$
+<table align="center"><tr><td align="center" width="9999">
+    <img src="images/develop-map.png" width="200">
+</td></tr></table>
 
 ```mermaid
 pie title Repository Language Distribution
@@ -42,7 +46,9 @@ pie title Repository Language Distribution
 
 ---
 
-## $${\boxed{\color{magenta} \sf{Tech \space Mastery}}}$$
+<table align="center"><tr><td align="center" width="9999">
+    <img src="images/tech-mastery.png" width="200">
+</td></tr></table>
 
 ### $$\sf Programming \space Languages$$
 
