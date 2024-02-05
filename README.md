@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="images/github-rise.png">
-</p>
+<table align="center"><tr><td align="center" width="9999">
+    <img src="images/github-rise.png" width="500">
+</td></tr></table>
+
 
 ---
 
