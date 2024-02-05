@@ -1,4 +1,6 @@
-# $$\boxed{\color{orange} \frak{ Rise \space and \space Rise \space again \space until \space Lambs \space become \space Lions !} } $$
+<p align="center">
+  <img src="images/github-rise.png">
+</p>
 
 ---
 
