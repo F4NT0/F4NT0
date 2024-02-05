@@ -211,7 +211,9 @@ pie title Repository Language Distribution
 
 ---
 
-## $${\boxed{\color{#B19650} \sf{My} \space \sf{Latest} \space \sf{Video}}}$$
+<table align="center"><tr><td align="center" width="9999">
+    <img src="images/latest-video.png" width="200">
+</td></tr></table>
 
 <div align="center">
   <table>
