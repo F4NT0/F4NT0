@@ -14,7 +14,7 @@
 ---
 
 <table align="center"><tr><td align="center" width="9999">
-    <img src="images/about-me.png" width="200">
+    <img src="images/about-me.png" width="250">
 </td></tr></table>
  
 ➡️ Software Developer for almost 6 years.
@@ -28,7 +28,7 @@
 ---
 
 <table align="center"><tr><td align="center" width="9999">
-    <img src="images/develop-map.png" width="200">
+    <img src="images/develop-map.png" width="250">
 </td></tr></table>
 
 ```mermaid
@@ -47,7 +47,7 @@ pie title Repository Language Distribution
 ---
 
 <table align="center"><tr><td align="center" width="9999">
-    <img src="images/tech-mastery.png" width="200">
+    <img src="images/tech-mastery.png" width="250">
 </td></tr></table>
 
 <img src="images/pm.png" align="center" width="400">
@@ -160,7 +160,7 @@ pie title Repository Language Distribution
   </table>
 </div>
 
-### $$\sf Operational \space Systems$$
+<img src="images/op.png" align="center" width="400">
 
 <div align="center">
   <table>
@@ -175,7 +175,7 @@ pie title Repository Language Distribution
   </table>
 </div>
 
-### $$\sf CI/CD$$
+<img src="images/ci.png" align="center" width="400">
 
 <div align="center">
   <table>
@@ -190,7 +190,7 @@ pie title Repository Language Distribution
   </table>
 </div>
 
-### $$\sf Web \space development$$
+<img src="images/web.png" align="center" width="400">
 
 <div align="center">
   <table>
