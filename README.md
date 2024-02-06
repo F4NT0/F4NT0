@@ -50,7 +50,9 @@ pie title Repository Language Distribution
     <img src="images/tech-mastery.png" width="200">
 </td></tr></table>
 
-### $$\sf Programming \space Languages$$
+<table align="center"><tr><td align="center" width="9999">
+    <img src="images/pl.png" width="200">
+</td></tr></table>
 
 <div align="center">
   <table>
