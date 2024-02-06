@@ -107,7 +107,7 @@ pie title Repository Language Distribution
   </table>
 </div>
 
-### $$\sf Scripting \space Languages$$
+<img src="images/sl.png" align="center" width="400">
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@ pie title Repository Language Distribution
   </table>
 </div>
 
-### $$\sf Frameworks$$
+<img src="images/fm.png" align="center" width="400">
 
 <div align="center">
   <table>
@@ -141,7 +141,7 @@ pie title Repository Language Distribution
   </table>
 </div>
 
-### $$\sf Databases$$
+<img src="images/db.png" align="center" width="400">
 
 <div align="center">
   <table>
