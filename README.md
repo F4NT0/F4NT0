@@ -50,9 +50,7 @@ pie title Repository Language Distribution
     <img src="images/tech-mastery.png" width="200">
 </td></tr></table>
 
-<table align="center"><tr><td align="center" width="9999">
-    <img src="images/pl.png" width="200">
-</td></tr></table>
+<img src="images/pm.png" align="center" width="400">
 
 <div align="center">
   <table>
@@ -92,7 +90,7 @@ pie title Repository Language Distribution
   </table>
 </div>
 
-### $$\sf Markup \space Languages$$
+<img src="images/ml.png" align="center" width="400">
 
 <div align="center">
   <table>
