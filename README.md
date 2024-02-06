@@ -5,7 +5,7 @@
 
 ---
 
-🕒 Joined Github 7 years ago
+🕒 Joined Github 9 years ago
 
 <table align="center"><tr><td align="center" width="9999">
     <img src="images/gif/My-Banner.gif" width="800">
@@ -17,11 +17,11 @@
     <img src="images/about-me.png" width="250">
 </td></tr></table>
  
-➡️ Software Developer for almost 6 years.
+➡️ Software Developer for 7 years.
 
 ➡️ Graduated with a Bachelor's degree in Software Engineering from PUCRS.
 
-➡️ My goal is to become a Senior Backend Software Developer.
+➡️ My goal is to become a Senior Software Engineer.
 
 ➡️ Creating a better world with code!
 
