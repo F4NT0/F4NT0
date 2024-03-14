@@ -25,6 +25,8 @@
 
 ➡️ Creating a better world with code!
 
+➡️ CodeWars: ![](https://www.codewars.com/users/F4NT0/badges/large)
+
 ---
 
 <table align="center"><tr><td align="center" width="9999">
