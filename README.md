@@ -25,7 +25,7 @@
 
 ➡️ Creating a better world with code!
 
-➡️ CodeWars: ![](https://www.codewars.com/users/F4NT0/badges/large)
+➡️ CodeWars: ![](https://www.codewars.com/users/F4NT0/badges/micro)
 
 ---
 
