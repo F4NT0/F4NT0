@@ -8,7 +8,7 @@
 🕒 Joined Github 9 years ago
 
 <table align="center"><tr><td align="center" width="9999">
-    <img src="images/gif/My-Banner.gif" width="800">
+    <img src="images/gif/My-Banner.gif" width="400">
 </td></tr></table>
 
 ---
