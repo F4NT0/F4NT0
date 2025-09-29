@@ -1,10 +1,15 @@
-🕒 Joined Github 9 years ago
- 
-➡️ Creating code for the last 7 years.
 
-➡️ Graduated with a Bachelor's degree in Software Engineering from PUCRS.
+<table align="center"><tr><td align="center" width="9999">
+    <img src="" alt="" width="">
+</td></tr></table>
 
-➡️ My goal is to become a Software Architect.
+
+↪ Graduated with a Bachelor's degree in Software Engineering from [PUCRS]().
+
+↪ <span style="color: orange">Short-term goal</span> : .NET Software Engineer
+
+↪ <span style="color: yellow">Long-term goal</span> : Software Architect
+
 
 <h2>My Project Organizations</h2>
 
