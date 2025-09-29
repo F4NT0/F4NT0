@@ -4,14 +4,14 @@
 </td></tr></table>
 
 
-⇒ Graduated with a Bachelor's degree in Software Engineering from [PUCRS]().
+⇒ Graduated with a Bachelor's degree in Software Engineering from [PUCRS](https://portal.pucrs.br/ensino/cursos/graduacao/engenharia-de-software/).
 
 ⇒ $$\color{orange}\textrm{Short-term goal}$$ : .NET Software Engineer
 
 ⇒ $$\color{yellow}\textrm{Long-term goal}$$ : Software Architect
 
 
-<h2>My Project Organizations</h2>
+<h2 align="center">My Project Organizations</h2>
 
   <table align="center">
     <tr>
@@ -39,3 +39,5 @@
     </td>
    </tr>
   </table>
+
+<h2 align="center"></h2>
