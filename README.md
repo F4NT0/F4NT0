@@ -1,14 +1,14 @@
 
 <table align="center"><tr><td align="center" width="9999">
-    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/gabriel-fanto.png?raw=true" alt="Me" width="300">
+    <img src="https://github.com/F4NT0/F4NT0/blob/master/images/gabriel-fanto.png?raw=true" alt="Me" width="900">
 </td></tr></table>
 
 
 ⇒ Graduated with a Bachelor's degree in Software Engineering from [PUCRS]().
 
-⇒ $$\color{orange}Short-term goal$$ : .NET Software Engineer
+⇒ $$\color{orange}\textrm{Short-term \space goal}$$ : .NET Software Engineer
 
-⇒ $$\color{yellow}Long-term goal$$ : Software Architect
+⇒ $$\color{yellow}\textrm{Long-term \space goal}$$ : Software Architect
 
 
 <h2>My Project Organizations</h2>
