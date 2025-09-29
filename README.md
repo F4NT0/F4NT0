@@ -6,7 +6,7 @@
 
 ⇒ Graduated with a Bachelor's degree in Software Engineering from [PUCRS](https://portal.pucrs.br/ensino/cursos/graduacao/engenharia-de-software/).
 
-⇒ $$\color{orange}\textrm{Short-term goal}$$ : .NET Software Engineer
+⇒ $$\color{orange}\textrm{Short-term goal}$$ : Mid-term .NET Software Engineer
 
 ⇒ $$\color{yellow}\textrm{Long-term goal}$$ : Software Architect
 
