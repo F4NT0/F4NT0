@@ -6,14 +6,14 @@
 
 ⇒ Graduated with a Bachelor's degree in Software Engineering from [PUCRS]().
 
-⇒ $$\color{orange}\textrm{Short-term \space goal}$$ : .NET Software Engineer
+⇒ $$\color{orange}\textrm{Short-term goal}$$ : .NET Software Engineer
 
-⇒ $$\color{yellow}\textrm{Long-term \space goal}$$ : Software Architect
+⇒ $$\color{yellow}\textrm{Long-term goal}$$ : Software Architect
 
 
 <h2>My Project Organizations</h2>
 
-  <table>
+  <table align="center">
     <tr>
       <td><img src="https://avatars.githubusercontent.com/u/202564302?s=200&v=4" alt="Csharp" width="100"></td>
       <td><img src="https://avatars.githubusercontent.com/u/222444060?s=200&v=4" alt="Java" width="100"></td>
