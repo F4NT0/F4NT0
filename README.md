@@ -23,7 +23,7 @@
     </tr>
    <tr>
     <td>
-     <a href="https://github.com/Fanto-Studies" title="C# projects">C# projects</a>
+     <a href="https://github.com/dotnet-studies" title="C# projects">C# projects</a>
     </td>
     <td>
      <a href="https://github.com/Java-Projects-Fanto" title="Java projects">Java projects</a>
