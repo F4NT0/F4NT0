@@ -1,7 +1,9 @@
 
-<table align="center"><tr><td align="center" width="9999">
+<!--<table align="center"><tr><td align="center" width="9999">
     <img src="https://github.com/F4NT0/F4NT0/blob/master/images/gabriel-fanto.png?raw=true" alt="Me" width="900">
-</td></tr></table>
+</td></tr></table> -->
+
+<a href="https://daily.dev/f4nt0"><img src="https://api.daily.dev/devcards/v2/whNNg0ajcmne1B7hPHb0U.png?type=wide&r=58z" width="652" alt="Gabriel Stundner's Dev Card"/></a>
 
 
 ⇒ Graduated with a Bachelor's degree in Software Engineering from [PUCRS](https://portal.pucrs.br/ensino/cursos/graduacao/engenharia-de-software/).
